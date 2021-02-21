@@ -1,2 +1,7 @@
-Professional and Responsive website design using HTML5,CSS3 and Bootstrap.
-https://hananshpigler.github.io/tinDog/
+# tinDog
+An example of a professional and responsive design for website
+
+## Getting Started
+Just click on the link below 👇 and start playing, enjoy !
+
+🌐 https://hananshpigler.github.io/tinDog/ 🌐
